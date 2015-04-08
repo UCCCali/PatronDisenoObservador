@@ -1,0 +1,12 @@
+C:\Users\JuanGuillermo\Desktop\Patron Observador\Patron Observador\bin\Debug\Patron Observador.exe.config
+C:\Users\JuanGuillermo\Desktop\Patron Observador\Patron Observador\obj\Debug\Patron Observador.csprojResolveAssemblyReference.cache
+C:\Users\JuanGuillermo\Desktop\Patron Observador\Patron Observador\bin\Debug\Patron Observador.exe
+C:\Users\JuanGuillermo\Desktop\Patron Observador\Patron Observador\bin\Debug\Patron Observador.pdb
+C:\Users\JuanGuillermo\Desktop\Patron Observador\Patron Observador\obj\Debug\Patron Observador.exe
+C:\Users\JuanGuillermo\Desktop\Patron Observador\Patron Observador\obj\Debug\Patron Observador.pdb
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\Patron Observador\Patron Observador\bin\Debug\Patron Observador.exe.config
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\Patron Observador\Patron Observador\obj\Debug\Patron Observador.exe
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\Patron Observador\Patron Observador\obj\Debug\Patron Observador.pdb
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\Patron Observador\Patron Observador\bin\Debug\Patron Observador.exe
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\Patron Observador\Patron Observador\bin\Debug\Patron Observador.pdb
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\Patron Observador\Patron Observador\obj\Debug\Patron Observador.csprojResolveAssemblyReference.cache
